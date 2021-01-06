@@ -7,6 +7,10 @@ body
 }
 /*--------------Header CSS--------------------*/
 
+h6{
+	font-size: 1rem;
+	padding: 8px;
+}
 .mylinks{
 	padding: 6px;
     border: 1px solid black;
@@ -36,7 +40,7 @@ body
 
 .user-box
 {
-	top: 50%;
+	top: 50%
 	left: 50%;
 	transform: translate(80%,60%);
 	position: absolute;
@@ -216,7 +220,7 @@ body
 	background: black;
 	display: inline-block;
 	position: absolute;
-	border-radius: 50%;
+	border-radius: 50%
 	border: 3px solid #000;
 	left: 20px;
 	width: 20px;
@@ -390,8 +394,4 @@ body
 {
 	color: #fff;
 	font-weight: 900;
-}
-h6{
-	font-size: 1rem;
-	padding: 8px;
 }
